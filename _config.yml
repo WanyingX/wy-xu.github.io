@@ -1,11 +1,11 @@
-title: My Awesome Site
+title: Wanying Xu
 email: xww@case.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  My personal website.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: >-
+  I'm a Ph.D. candidate in CASE WESTERN RESERVE UNIVSERITY.
+baseurl: ""
 url: "https://wanyingx.github.io/wy-xu.github.io/"
-twitter_username: 
-github_username:  Wanying Xu
+twitter_username: Wanying Xu
+github_username: Wanying Xu
 
 theme: minima
 
