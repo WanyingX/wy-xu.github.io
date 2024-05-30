@@ -8,12 +8,13 @@ title: Home
   <p>Hey, thanks for stopping by! 👋</p>
 </div>
 
+
 <div class="main-content">
   <div class="text">
-    <p>I am a Ph.D. candidate in CASE WESTERN RESERVE UNIVERSITY</p>
     <p>I completed my B.S. of bioinformatics in Harbin Medical University, and then I joined in Fulai Jin lab at Case Western Reserve University <a href="https://jinlabgenomics.com/Fulai-Jin/">as a Ph.D. candidate, where I worked on decipher regulatory circuits via 3D genome interaction of human disease.</p>
   </div>
 </div>
+  
 
 <div class="news">
   <h2>News</h2>
