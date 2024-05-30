@@ -14,7 +14,7 @@ title: Home
     <p>I completed my B.S. of bioinformatics in Harbin Medical University, and then I joined in Fulai Jin lab at Case Western Reserve University <a href="https://jinlabgenomics.com/Fulai-Jin/">as a Ph.D. candidate, where I worked on decipher regulatory circuits via 3D genome interaction of human disease.</p>
   </div>
   <div class="image">
-    <img src="http://hiview10.gene.cwru.edu/~xww/Wanying_poster/Cleveland.jpg" alt="Image description">
+    <img src="" alt="Image description">
   </div>
 </div>
 
