@@ -1,1 +1,13 @@
+title: My Awesome Site
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  My personal website.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://your-username.github.io" # the base hostname & protocol for your site
+twitter_username: your-twitter-handle
+github_username:  your-username
+
 theme: minima
+
+# Build settings
+markdown: kramdown
